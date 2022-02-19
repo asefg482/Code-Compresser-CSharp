@@ -1,0 +1,10 @@
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\bin\x86\Release\Key_Compress.exe.config
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\bin\x86\Release\Key_Compress.exe
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\bin\x86\Release\Key_Compress.pdb
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.Main_Frm.resources
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.Properties.Resources.resources
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.csproj.GenerateResource.cache
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.csproj.CoreCompileInputs.cache
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.exe
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.pdb
+C:\Users\Asef Ghorbani\source\repos\Key_Compress\Key_Compress\obj\x86\Release\Key_Compress.csprojAssemblyReference.cache
